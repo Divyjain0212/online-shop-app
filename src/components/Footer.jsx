@@ -115,7 +115,7 @@ export function Footer() {
                             rel="noopener noreferrer"
                             className="author-link"
                         >
-                            Md. Afzal Hassan Ehsani
+                            Mr. Divy Jain
                         </a>
                     </div>
                     <div>
